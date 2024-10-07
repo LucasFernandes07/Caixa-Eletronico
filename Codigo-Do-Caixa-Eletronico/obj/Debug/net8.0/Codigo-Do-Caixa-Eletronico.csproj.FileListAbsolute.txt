@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\bin\Debug\net8.0\Codigo-Do-Caixa-Eletronico.exe
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\bin\Debug\net8.0\Codigo-Do-Caixa-Eletronico.deps.json
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\bin\Debug\net8.0\Codigo-Do-Caixa-Eletronico.runtimeconfig.json
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\bin\Debug\net8.0\Codigo-Do-Caixa-Eletronico.dll
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\bin\Debug\net8.0\Codigo-Do-Caixa-Eletronico.pdb
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.AssemblyInfo.cs
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.sourcelink.json
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.dll
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\refint\Codigo-Do-Caixa-Eletronico.dll
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.pdb
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\Codigo-Do-Caixa-Eletronico.genruntimeconfig.cache
+C:\Users\Aluno\Documents\LucasFernandes07\Caixa-Eletronico\Codigo-Do-Caixa-Eletronico\obj\Debug\net8.0\ref\Codigo-Do-Caixa-Eletronico.dll
