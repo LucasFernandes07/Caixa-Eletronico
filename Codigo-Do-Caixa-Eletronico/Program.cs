@@ -89,7 +89,7 @@ class Program
 
     static void Saque()
     {
-        Console.Write("Escolha a conta (1 para Corrente, 2 para Poupança): ");
+        Console.Write("Escolha a conta (1 para Corrente ,, 2 para Poupança): ");
         int tipoConta = int.Parse(Console.ReadLine());
         Console.Write("Digite o valor do saque: R$ ");
         decimal valor = decimal.Parse(Console.ReadLine());
